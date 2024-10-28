@@ -21,4 +21,4 @@ Contract
 ---
 
 * Mail: 3308869544@qq.com
-* WeChart: litheme2024
+* WeChat: litheme2024
