@@ -13,7 +13,7 @@
   
 ### 📈 GitHub Stats
 
-![py's github stats](https://github-readme-stats.vercel.app/api?username=ZhiZunJava&show_icons=true&theme=radical&count_private=true&show_icons=true)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZhiZunJava?cardType=level&theme=vue&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### 📈 Activity Graph:
 
